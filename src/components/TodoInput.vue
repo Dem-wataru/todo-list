@@ -92,7 +92,6 @@ localStorage.setItem("items",JSON.stringify(items));
     box-shadow: 0 2px 3px rgb(0 0 0 / 25%), 0 2px 3px -2px rgb(0 0 0 / 15%);
     background-color: #56c82d;
     color: #fff;
-    font-weight: 600;
     font-size: 1em;
 }
 
